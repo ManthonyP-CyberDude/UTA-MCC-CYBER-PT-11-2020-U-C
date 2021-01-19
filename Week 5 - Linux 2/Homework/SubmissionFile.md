@@ -9,8 +9,10 @@ Save and submit the completed file for your homework submission.
 ### Step 1: Create, Extract, Compress, and Manage tar Backup Archives
 
 1. Command to **extract** the `TarDocs.tar` archive to the current directory:
+    tar -xvf TarDocs.tar
 
 2. Command to **create** the `Javaless_Doc.tar` archive from the `TarDocs/` directory, while excluding the `TarDocs/Documents/Java` directory:
+    
 
 3. Command to ensure `Java/` is not in the new `Javaless_Docs.tar` archive:
 
